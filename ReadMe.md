@@ -13,7 +13,8 @@ TUSHAR<br>+91 9997089348 |<br>® MEERUT (U.P), India<br><br>PROFESSIONAL SUMMARY
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=a-tushar-a&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 https://github.com/users/a-tushar-a/achievements/pull-shark
 https://github.com/users/a-tushar-a/achievements/yolo
-https://github.com/users/a-tushar-a/achievements/quickdraw
+https://github.com/users/a-tushar-a/achievements/quickdraw  https://www.linkedin.com/in/zz-tushar-az/
+
 
  
 
