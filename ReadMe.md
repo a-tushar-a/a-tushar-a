@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zz-tushar-az)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharkumar22mohan@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a-tushar-a)
-[![Portfolio](https://img.shields.io/badge/Live%20Project-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://neuraforge-autonomous-ai-agent-swarmm.netlify.app/)
+[![Live Project](https://img.shields.io/badge/Live%20Project-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://neuraforge-autonomous-ai-agent-swarmm.netlify.app/)
 
 </div>
 
@@ -38,21 +38,21 @@ Contact  : tusharkumar22mohan@gmail.com | +91 9997089348
 
 > React 18 · TypeScript · Node.js · Express · Firebase · Gemini API · Tailwind CSS · Web Audio API
 
-Production-grade multi-agent orchestration dashboard. A 6-agent swarm pipeline (Supervisor → Research → Analysis → Generation → Critic → Executor) with real-time SVG pipeline visualization, Firestore RAG knowledge retrieval, Firebase Auth, and a custom Web Audio API synth-haptic feedback system. Deployed on Netlify with serverless functions.
+Production-grade multi-agent orchestration dashboard. A 6-agent swarm pipeline (Supervisor → Research → Analysis → Generation → Critic → Executor) with real-time SVG pipeline visualization, Firestore RAG knowledge retrieval, Firebase Auth, and a custom Web Audio API synth-haptic feedback system.
 
 ---
 
 ### 🛡️ Malware Detection System
 > Java · Spring Boot · React.js · Python · FastAPI · TensorFlow · PostgreSQL · JWT
 
-Full-stack AI-powered malware detection platform. Spring Boot backend for API management, React.js frontend for secure file uploads, and a deep learning microservice for real-time malware prediction. Secured with JWT authentication.
+Full-stack AI-powered malware detection platform with deep learning microservice for real-time malware prediction. Secured with JWT authentication.
 
 ---
 
 ### 📋 AI-Powered Job Tracker
 > React · Tailwind CSS · Node.js · Express · PostgreSQL · OpenAI API
 
-Full-stack job application manager with OpenAI-powered resume tips, smart job parsing, JWT/Auth0 authentication, and automated SendGrid email alerts.
+Full-stack job application manager with OpenAI-powered resume tips, smart job parsing, and automated email alerts.
 
 ---
 
@@ -117,13 +117,40 @@ Full-stack job application manager with OpenAI-powered resume tips, smart job pa
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 GitHub Trophies
+
+<div align="center">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=a-tushar-a&theme=tokyonight&no-frame=true&row=1&column=6)
 
-- 📜 Career Essentials in Software Development — **Microsoft & LinkedIn Learning**
-- ☕ Java (Basic) — **HackerRank**
-- 🗄️ SQL (Basic) — **HackerRank**
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| Certificate | Issuer | Badge |
+|-------------|--------|-------|
+| Career Essentials in Software Development | Microsoft & LinkedIn Learning | ![Microsoft](https://img.shields.io/badge/Microsoft-Certified-0078D4?style=flat-square&logo=microsoft&logoColor=white) |
+| Java (Basic) | HackerRank | ![HackerRank](https://img.shields.io/badge/HackerRank-Java-2EC866?style=flat-square&logo=hackerrank&logoColor=white) |
+| SQL (Basic) | HackerRank | ![HackerRank](https://img.shields.io/badge/HackerRank-SQL-2EC866?style=flat-square&logo=hackerrank&logoColor=white) |
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar%20Kumar-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zz-tushar-az)
+[![Gmail](https://img.shields.io/badge/Gmail-tusharkumar22mohan-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharkumar22mohan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-a--tushar--a-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a-tushar-a)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%209997089348-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919997089348)
+
+</div>
 
 ---
 
