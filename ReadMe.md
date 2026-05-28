@@ -1,21 +1,136 @@
-# Helle Every one I'm Tushar:
-TUSHAR<br>+91 9997089348 |<br>® MEERUT (U.P), India<br><br>PROFESSIONAL SUMMARY<br>Driven Java Full Stack Software Developer with strong skills in Java, Spring Boot, Reactjs, and REST APIs. Solid<br>understanding of Data Structures, OOP, and SDLC. Passionate about building scalable web applications and writing<br>clean, efficient code to deliver impactful solutions.<br><br>TECHNICAL PROJECTS<br>Malware Detection System<br>Technologies: Java, Spring Boot, React.js, Python, FastAPI, TensorFlow, PostgreSQL, JWT<br>Developed a full-stack Malware Detection System leveraging Deep Learning for file analysis. Implemented a robust<br>Java Spring Boot DJava 17, Maven) backend for API management and data persistence. Developed a responsive<br>React.js frontend enabling secure file uploads and analysis history tracking.<br>Impact: Designed and integrated an Al microservice for real-time malware prediction. Secured the application<br>using JWT authentication and built a scalable system supporting user registration and detailed analysis<br>visualization.<br>Al-Powered Job Tracker<br>Technologies: React, Tailwind CSS, Node.js, Express, PostgreSQL, OpenAl API<br>Developed a full-stack web application for managing job applications. Integrated the OpenAl API for Al-powered<br>job parsing and resume tips, with IWT/Auth0 authentication and SendGrid email alerts.<br>Impact: Streamlined the job search process by providing Al-driven resume tips, smart job parsing, and automated<br>alerts, improving application success rates.<br><br>TECHNICAL SKILLS<br>. Programming Languages: Java, Python, JavaScript, TypeScript<br>. Frontend: React.js, HTML5, CSS3, Tailwind CSS, Vite<br>. Backend & Architecture: Nodejs, Express, Spring Boot, RESTful APIs, Microservices<br>. Databases: PostgreSQL MongoDB, MySQL<br>. Cloud & DevOps: Docker, CI/CD, Git, GitHub, JIRA<br>. Al & Tools: VS Code, JWT, Prompt Engineering, OpenAl API, TensorFlow, Keras, FastAPI, Postman, Intelli IDEA<br>EDUCATION<br>Bachelor of Technology in Computer Science and Engineering<br>Bharat Institute of Technology, Meerut<br>Affiliated with Dr. A. P. J. Abdul Kalam Technical University<br>CERTIFICATIONS<br>. Career Essentials in Software Development - Microsoft & Linkedin Learning<br>· Java (Basic) - Hacker Rank<br>. SQL (Basic)- Hacker Rank<br><br>Tusharkumar22mohan@gmail.com | i@ linkedin.com/in/zz-tushar-az |<br><br>2022 - 2026<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=200&section=header&text=Tushar%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zz-tushar-az) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tusharkumar22mohan@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;React+%2B+Spring+Boot+Engineer;AI+%26+Multi-Agent+Systems+Builder;Open+to+Internships+%26+Full-Time+Roles)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=a-tushar-a&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=a-tushar-a&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=a-tushar-a&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-https://github.com/users/a-tushar-a/achievements/pull-shark
-https://github.com/users/a-tushar-a/achievements/yolo
-https://github.com/users/a-tushar-a/achievements/quickdraw  https://www.linkedin.com/in/zz-tushar-az/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zz-tushar-az)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharkumar22mohan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a-tushar-a)
+[![Portfolio](https://img.shields.io/badge/Live%20Project-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://neuraforge-autonomous-ai-agent-swarmm.netlify.app/)
 
+</div>
 
- 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🙋‍♂️ About Me
+
+```yaml
+Name     : Tushar Kumar
+Role     : Java Full Stack Developer & AI Enthusiast
+College  : Bharat Institute of Technology, Meerut (AKTU) — B.Tech CSE 2022–2026
+Location : Meerut, U.P., India
+Contact  : tusharkumar22mohan@gmail.com | +91 9997089348
+```
+
+- 🔭 Currently building **NeuraForge** — Autonomous AI Agent Swarm Workspace
+- 🌱 Exploring **LLM orchestration, multi-agent systems & DevOps pipelines**
+- 💼 Seeking **internships & full-time roles** in Full Stack / AI Engineering
+- ⚡ Fun fact: I build AI systems that talk to each other so I don't have to 😄
+
+---
+
+## 🚀 Featured Projects
+
+### 🌌 NeuraForge — Autonomous AI Agent Swarm Workspace
+[![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=netlify)](https://neuraforge-autonomous-ai-agent-swarmm.netlify.app/)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-121011?style=flat-square&logo=github)](https://github.com/a-tushar-a/NeuraForge-Autonomous-AI-Agent-Swarmm)
+
+> React 18 · TypeScript · Node.js · Express · Firebase · Gemini API · Tailwind CSS · Web Audio API
+
+Production-grade multi-agent orchestration dashboard. A 6-agent swarm pipeline (Supervisor → Research → Analysis → Generation → Critic → Executor) with real-time SVG pipeline visualization, Firestore RAG knowledge retrieval, Firebase Auth, and a custom Web Audio API synth-haptic feedback system. Deployed on Netlify with serverless functions.
+
+---
+
+### 🛡️ Malware Detection System
+> Java · Spring Boot · React.js · Python · FastAPI · TensorFlow · PostgreSQL · JWT
+
+Full-stack AI-powered malware detection platform. Spring Boot backend for API management, React.js frontend for secure file uploads, and a deep learning microservice for real-time malware prediction. Secured with JWT authentication.
+
+---
+
+### 📋 AI-Powered Job Tracker
+> React · Tailwind CSS · Node.js · Express · PostgreSQL · OpenAI API
+
+Full-stack job application manager with OpenAI-powered resume tips, smart job parsing, JWT/Auth0 authentication, and automated SendGrid email alerts.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+**AI & Tools**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-tushar-a&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=a-tushar-a&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-tushar-a&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=a-tushar-a&theme=tokyonight&no-frame=true&row=1&column=6)
+
+- 📜 Career Essentials in Software Development — **Microsoft & LinkedIn Learning**
+- ☕ Java (Basic) — **HackerRank**
+- 🗄️ SQL (Basic) — **HackerRank**
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:7F77DD&height=100&section=footer" />
+
+*Open to opportunities — internships, full-time roles, and exciting collaborations!*
+
+</div>
