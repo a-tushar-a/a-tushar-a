@@ -136,7 +136,7 @@ Full-stack job application manager with OpenAI-powered resume tips, smart job pa
 | Career Essentials in Software Development | Microsoft & LinkedIn Learning | ![Microsoft](https://img.shields.io/badge/Microsoft-Certified-0078D4?style=flat-square&logo=microsoft&logoColor=white) |
 | Java (Basic) | HackerRank | ![HackerRank](https://img.shields.io/badge/HackerRank-Java-2EC866?style=flat-square&logo=hackerrank&logoColor=white) |
 | SQL (Basic) | HackerRank | ![HackerRank](https://img.shields.io/badge/HackerRank-SQL-2EC866?style=flat-square&logo=hackerrank&logoColor=white) |
-
+https://www.linkedin.com/posts/zz-tushar-az_ai-for-all-ugcPost-7464042779850006528-Gffo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYtEZgB7WEVIc8qESYboGL6n6i-cEz5hQw
 </div>
 
 ---
