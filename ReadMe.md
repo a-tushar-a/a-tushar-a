@@ -1,163 +1,178 @@
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=200&section=header&text=Tushar%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" />
+# 🟩🟩🟩🟩🟩🟩🟩
+# 🟩     T U S H A R     🟩
+# 🟩🟩🟩🟩🟩🟩🟩
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;React+%2B+Spring+Boot+Engineer;AI+%26+Multi-Agent+Systems+Builder;Open+to+Internships+%26+Full-Time+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=39D353&center=true&vCenter=true&width=900&lines=%3E+Software+Developer;%3E+Java+Full+Stack+Developer;%3E+AI+Engineer;%3E+Building+Scalable+Systems;%3E+Open+to+Full-Time+Opportunities)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zz-tushar-az)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharkumar22mohan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a-tushar-a)
-[![Live Project](https://img.shields.io/badge/Live%20Project-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://neuraforge-autonomous-ai-agent-swarmm.netlify.app/)
+<p align="center">
+<a href="https://www.linkedin.com/in/zz-tushar-az">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tusharkumar22mohan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/a-tushar-a">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://neuraforge-autonomous-ai-agent-swarmm.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=a-tushar-a&theme=github-compact&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## > About Me
 
 ```yaml
-Name     : Tushar  
-Role     : Software Developer | Java Full Stack Developer & AI Enthusiast
-College  : Bharat Institute of Technology, Meerut (AKTU) — B.Tech CSE 2022–2026
-Location : Meerut, U.P., India
-Contact  : tusharkumar22mohan@gmail.com | +91 9997089348
+Name      : Tushar
+Role      : Software Developer
+Specialty : Java Full Stack + AI Systems
+Location  : Meerut, India
+Degree    : B.Tech CSE (2022-2026)
+Email     : tusharkumar22mohan@gmail.com
+````
+
+* 🔥 Building production-grade AI applications.
+* 🚀 Passionate about Java, Spring Boot & Cloud.
+* 🤖 Exploring LLMs, Multi-Agent Systems & RAG.
+* 💼 Open for Software Developer opportunities.
+
+---
+
+# > Featured Projects
+
+## 🧠 NeuraForge
+
+Multi-Agent AI Workspace with:
+
+* React 18
+* TypeScript
+* Node.js
+* Express
+* Firebase
+* Gemini API
+* Firestore RAG
+
+🔗 https://neuraforge-autonomous-ai-agent-swarmm.netlify.app/
+
+---
+
+## 📋 AI Job Tracker
+
+AI-powered Resume Analyzer + ATS + Interview Coach.
+
+Tech:
+React • Node.js • PostgreSQL • Gemini API • Docker
+
+---
+
+## 🛡️ Malware Detection Platform
+
+Java Spring Boot + Python AI + React Dashboard.
+
+Tech:
+Spring Boot • FastAPI • TensorFlow • PostgreSQL
+
+---
+
+# > Tech Stack
+
+### Languages
+
+![Java](https://skillicons.dev/icons?i=java)
+![js](https://skillicons.dev/icons?i=javascript)
+![ts](https://skillicons.dev/icons?i=typescript)
+![python](https://skillicons.dev/icons?i=python)
+
+### Frontend
+
+![react](https://skillicons.dev/icons?i=react)
+![html](https://skillicons.dev/icons?i=html)
+![css](https://skillicons.dev/icons?i=css)
+![tailwind](https://skillicons.dev/icons?i=tailwind)
+
+### Backend
+
+![spring](https://skillicons.dev/icons?i=spring)
+![nodejs](https://skillicons.dev/icons?i=nodejs)
+![express](https://skillicons.dev/icons?i=express)
+![fastapi](https://skillicons.dev/icons?i=fastapi)
+
+### Database
+
+![postgres](https://skillicons.dev/icons?i=postgres)
+![mysql](https://skillicons.dev/icons?i=mysql)
+![mongodb](https://skillicons.dev/icons?i=mongodb)
+![firebase](https://skillicons.dev/icons?i=firebase)
+
+### DevOps
+
+![docker](https://skillicons.dev/icons?i=docker)
+![git](https://skillicons.dev/icons?i=git)
+![github](https://skillicons.dev/icons?i=github)
+![aws](https://skillicons.dev/icons?i=aws)
+
+---
+
+# > GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=a-tushar-a&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-tushar-a&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=a-tushar-a&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+# > GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=a-tushar-a&theme=matrix&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# > Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/zz-tushar-az">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:tusharkumar22mohan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/a-tushar-a">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💚 Learn • Build • Ship • Repeat
+
+![](https://komarev.com/ghpvc/?username=a-tushar-a\&style=for-the-badge\&color=39D353)
+
+</div>
 ```
-
-- 🔭 Currently building **NeuraForge** — Autonomous AI Agent Swarm Workspace
-- 🌱 Exploring **LLM orchestration, multi-agent systems & DevOps pipelines**
-- 💼 Seeking **internships & full-time roles** in Full Stack / AI Engineering
-- ⚡ Fun fact: I build AI systems that talk to each other so I don't have to 😄
-
----
-
-## 🚀 Featured Projects
-
-### 🌌 NeuraForge — Autonomous AI Agent Swarm Workspace
-[![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=netlify)](https://neuraforge-autonomous-ai-agent-swarmm.netlify.app/)
-[![Repo](https://img.shields.io/badge/GitHub-Repo-121011?style=flat-square&logo=github)](https://github.com/a-tushar-a/NeuraForge-Autonomous-AI-Agent-Swarmm)
-
-> React 18 · TypeScript · Node.js · Express · Firebase · Gemini API · Tailwind CSS · Web Audio API
-
-Production-grade multi-agent orchestration dashboard. A 6-agent swarm pipeline (Supervisor → Research → Analysis → Generation → Critic → Executor) with real-time SVG pipeline visualization, Firestore RAG knowledge retrieval, Firebase Auth, and a custom Web Audio API synth-haptic feedback system.
-
----
-
-### 🛡️ Malware Detection System
-> Java · Spring Boot · React.js · Python · FastAPI · TensorFlow · PostgreSQL · JWT
-
-Full-stack AI-powered malware detection platform with deep learning microservice for real-time malware prediction. Secured with JWT authentication.
-
----
-
-### 📋 AI-Powered Job Tracker
-> React · Tailwind CSS · Node.js · Express · PostgreSQL · OpenAI API
-
-Full-stack job application manager with OpenAI-powered resume tips, smart job parsing, and automated email alerts.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-
-**AI & Tools**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-tushar-a&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=a-tushar-a&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-tushar-a&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=a-tushar-a&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-| Certificate | Issuer | Badge |
-|-------------|--------|-------|
-| Career Essentials in Software Development | Microsoft & LinkedIn Learning | ![Microsoft](https://img.shields.io/badge/Microsoft-Certified-0078D4?style=flat-square&logo=microsoft&logoColor=white) |
-| Java (Basic) | HackerRank | ![HackerRank](https://img.shields.io/badge/HackerRank-Java-2EC866?style=flat-square&logo=hackerrank&logoColor=white) |
-| SQL (Basic) | HackerRank | ![HackerRank](https://img.shields.io/badge/HackerRank-SQL-2EC866?style=flat-square&logo=hackerrank&logoColor=white) |
-https://www.linkedin.com/posts/zz-tushar-az_ai-for-all-ugcPost-7464042779850006528-Gffo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYtEZgB7WEVIc8qESYboGL6n6i-cEz5hQw
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar%20Kumar-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zz-tushar-az)
-[![Gmail](https://img.shields.io/badge/Gmail-tusharkumar22mohan-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharkumar22mohan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-a--tushar--a-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a-tushar-a)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209997089348-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919997089348)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:7F77DD&height=100&section=footer" />
-
-*Open to opportunities — internships, full-time roles, and exciting collaborations!*
-
-</div>
