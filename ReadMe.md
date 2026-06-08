@@ -55,51 +55,44 @@ Full-stack AI-powered malware detection platform with deep learning microservice
 Full-stack job application manager with OpenAI-powered resume tips, smart job parsing, and automated email alerts.
 
 ---
+  Dear Expert!# > Tech Stack
 
-## 🛠️ Tech Stack
+### Languages
 
-**Languages**
+![Java](https://skillicons.dev/icons?i=java)
+![js](https://skillicons.dev/icons?i=javascript)
+![ts](https://skillicons.dev/icons?i=typescript)
+![python](https://skillicons.dev/icons?i=python)
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+### Frontend
 
-**Frontend**
+![react](https://skillicons.dev/icons?i=react)
+![html](https://skillicons.dev/icons?i=html)
+![css](https://skillicons.dev/icons?i=css)
+![tailwind](https://skillicons.dev/icons?i=tailwind)
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+### Backend
 
-**Backend**
+![spring](https://skillicons.dev/icons?i=spring)
+![nodejs](https://skillicons.dev/icons?i=nodejs)
+![express](https://skillicons.dev/icons?i=express)
+![fastapi](https://skillicons.dev/icons?i=fastapi)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+### Database
 
-**Databases**
+![postgres](https://skillicons.dev/icons?i=postgres)
+![mysql](https://skillicons.dev/icons?i=mysql)
+![mongodb](https://skillicons.dev/icons?i=mongodb)
+![firebase](https://skillicons.dev/icons?i=firebase)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+### DevOps
 
-**Cloud & DevOps**
+![docker](https://skillicons.dev/icons?i=docker)
+![git](https://skillicons.dev/icons?i=git)
+![github](https://skillicons.dev/icons?i=github)
+![aws](https://skillicons.dev/icons?i=aws)
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-
-**AI & Tools**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+---
 
 ---
 
