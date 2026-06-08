@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=200&section=header&text=Tushar%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=200&section=header&text=Tushar%20.&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software developer&Java%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;React+%2B+Spring+Boot+Engineer;AI+%26+Multi-Agent+Systems+Builder;Open+to+Internships+%26+Full-Time+Roles)](https://git.io/typing-svg)
 
@@ -16,8 +16,8 @@
 ## 🙋‍♂️ About Me
 
 ```yaml
-Name     : Tushar Kumar
-Role     : Java Full Stack Developer & AI Enthusiast
+Name     : Tushar  
+Role     : Software Developer | Java Full Stack Developer & AI Enthusiast
 College  : Bharat Institute of Technology, Meerut (AKTU) — B.Tech CSE 2022–2026
 Location : Meerut, U.P., India
 Contact  : tusharkumar22mohan@gmail.com | +91 9997089348
