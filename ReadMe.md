@@ -43,16 +43,28 @@ Production-grade multi-agent orchestration dashboard. A 6-agent swarm pipeline (
 ---
 
 ### 🛡️ Malware Detection System
-> Java · Spring Boot · React.js · Python · FastAPI · TensorFlow · PostgreSQL · JWT
-
-Full-stack AI-powered malware detection platform with deep learning microservice for real-time malware prediction. Secured with JWT authentication.
+>Python | FastAPI | TensorFlow/Keras | Java Spring Boot | React.js | TypeScript | Tailwind CSS | Framer Motion | Google Gemini API | Docker Compose | PostgreSQL | JWT | GitHub Actions
+•
+Designed and containerized a multi-service architecture using Docker Compose: React/Vite SPA dashboard, Express/Spring Boot REST gateway, Python FastAPI deep-learning inference node (TensorFlow/Keras), and PostgreSQL persistence engine.
+•
+Embedded Google Gemini LLM as a sandboxed Security Advisor Agent interpreting byte-level files, binary metadata, and entropy-based obfuscation parameters for real-time AI-driven threat analysis.
+•
+Developed an interactive catalog of 100 Cyber Security and ML Blueprints (Core ML, Threat Intel, Remediation) with a custom JavaScript event broker dispatching user queries to the AI agent for live deployment code generation.
+•
+Crafted a dark-themed security cockpit with Tailwind CSS, Framer Motion, and dynamic gauges; configured GitHub Actions CI/CD workflows validating system compilations, production asset packaging, and mock binary analyses pre-deployment.
 
 ---
 
 ### 📋 AI-Powered Job Tracker
-> React · Tailwind CSS · Node.js · Express · PostgreSQL · OpenAI API
-
-Full-stack job application manager with OpenAI-powered resume tips, smart job parsing, and automated email alerts.
+> React.js | TypeScript | Node.js | Express.js | SQLite/PostgreSQL | Google Gemini API | OAuth 2.0 | JWT | Google Cloud Run | Docker | Nginx | GitHub Actions
+•
+Architected and launched a full-stack distributed platform on Google Cloud Run with NGINX reverse proxy; automated zero-downtime deployments via GitHub Actions CI/CD pipeline.
+•
+Incorporated Google Gemini API (TypeScript) for AI-driven resume ATS scoring, cover letter generation, skill-gap analysis, and structured key-entity extraction from unstructured job descriptions into SQLite/PostgreSQL.
+•
+Established secure authentication using OAuth 2.0, JWT, and Google Social Login; hardened Express routing with payload-validation middleware and graceful fallback logic, reducing API failure rates to near 0%.
+•
+Built an interactive interview coaching module with structured JSON output routing for behavioral/technical scenarios; formulated dynamic Recharts KPI dashboards tracking application-to-offer funnel trends.
 
 ---
   Dear Expert!# > Tech Stack
